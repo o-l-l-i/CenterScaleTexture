@@ -5,4 +5,4 @@ This can be handy in menu backgrounds and in some other use-cases, if you don't 
 
 ### shader in action
 
-![![CenterScaleTexture image](MaskedUnlitUI.png) image](CenterScaleTexture.png)
+![CenterScaleTexture image](CenterScaleTexture.png)
